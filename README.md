@@ -19,4 +19,4 @@ To get started after setting up the service configuration, run `tilt up`. The `T
 
 ## License
 
-The code in this repository is licensed under MIT, &copy; Brian Cooper and Omni LLC. See <a href="LICENSE.md">LICENSE.md</a> for more information.
+The code in this repository is licensed under MIT, &copy; Omni LLC. See <a href="LICENSE.md">LICENSE.md</a> for more information.
