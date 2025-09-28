@@ -4,7 +4,7 @@ This is a template repository for creating a metarepo for a set of services. It 
 
 ## Prerequisites
 
-- Install [Tilt](https://tilt.dev/)
+- Install [Tilt](https://tilt.dev)
 
 ## Getting Started
 
