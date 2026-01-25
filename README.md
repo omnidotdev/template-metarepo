@@ -1,4 +1,4 @@
-# 🗂️ Metarepo Template
+# 🌟 Metarepo Template
 
 This is a template repository for creating a metarepo that orchestrates multiple services for local development.
 
