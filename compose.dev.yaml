@@ -1,0 +1,11 @@
+# Development override - build from source instead of pulling images
+# Usage: docker compose -f compose.yaml -f compose.dev.yaml up
+
+services:
+  api:
+    build: ./services/template-api
+    image: template-api:dev
+
+  app:
+    build: ./services/template-app
+    image: template-app:dev
